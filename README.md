@@ -15,3 +15,10 @@
  1. Take a cab outside the airport
  2. Option 2- Take a bus outside the airport
  3. Step down at Krutinga Restaurant
+
+
+### Recomended Food Items
+
+* Biryani
+* Wings 
+* Double ka Meeta
