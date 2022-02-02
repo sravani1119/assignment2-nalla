@@ -23,4 +23,19 @@
 * Wings 
 * Double ka Meeta
 
-[Goto AboutMe](AboutMe.md)
+[Goto AboutMe] (AboutMe.md)
+
+
+<hr>
+
+## Recomended Games
+
+Below table gives a breif intro about gaming activites and the location of gaming arena along with amount payable for any additional equipment opted.
+
+
+|Sport | Location | Money Payable|
+|  ---  |   ---   | :--- |
+|Bowling| Kansas | $ 4100|
+|Skating| Florida | $ 2070|
+|Surfing| texas | $ 1400|
+|Karting| Chicago | $ 700|

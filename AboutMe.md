@@ -3,5 +3,5 @@
 some text
 
 
-[Profile PIC](images/sravani.jpg)
+[Profile PIC](images/sravani.jpg)<br>
 [Goto README.md](README.md)
