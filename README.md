@@ -12,6 +12,6 @@
 
  ## Kempagowda Airport
 
- * Take a cab outside the airport
- * Option 2- Take a bus outside the airport
- * Step down at Krutinga Restaurant
+ 1. Take a cab outside the airport
+ 2. Option 2- Take a bus outside the airport
+ 3. Step down at Krutinga Restaurant
