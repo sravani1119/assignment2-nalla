@@ -44,8 +44,8 @@ Below table gives a breif intro about gaming activites and the location of gamin
 
 # Pithy Quotes
 
-> "The way I see it, if you want the rainbow,you gotta put up with the rain."<br>
->***-DOLLY PARTON***
+> “Be yourself; everyone else is already taken.”<br>
+>***- Oscar Wilde***
 
->"The smell of fuel, driving on the limit on the edge of sliding, it just gives you a lot of adrenaline."<br>
->***-MAX VERSTAPPEN***
+>“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”<br>
+>***- Albert Einstein***
