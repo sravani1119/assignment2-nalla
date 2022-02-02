@@ -49,3 +49,22 @@ Below table gives a breif intro about gaming activites and the location of gamin
 
 >“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”<br>
 >***- Albert Einstein***
+
+<hr>
+
+# Code Fencing
+
+# Dot product
+
+>In mathematics, the dot product or scalar product[note 1] is an algebraic operation that takes two equal-length sequences of numbers (usually coordinate vectors), and returns a single number. In Euclidean geometry, the dot product of the Cartesian coordinates of two vectors is widely used. It is often called "the" inner product (or rarely projection product) of Euclidean space, even though it is not the only inner product that can be defined on Euclidean space (see Inner product space for more).[-Goto Source](https://en.wikipedia.org/wiki/Dot_product).
+
+we can implement `Dot product` as follows <https://cp-algorithms.com/geometry/basic-geometry.html>
+
+```
+ftype dot(point2d a, point2d b) {
+    return a.x * b.x + a.y * b.y;
+}
+ftype dot(point3d a, point3d b) {
+    return a.x * b.x + a.y * b.y + a.z * b.z;
+}
+```
