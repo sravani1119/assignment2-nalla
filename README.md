@@ -8,12 +8,12 @@
 
  <hr>
  
- # Nearest Airport and Address
+ # Nearest Airport and Address 
 
  ## Kempagowda Airport
 
- 1. Take a cab outside the airport
- 2. Option 2- Take a bus outside the airport
+ 1. Take a cab outside the airport (or)
+ 2. Option 2 - Take a bus outside the airport
  3. Step down at Krutinga Restaurant
 
 
