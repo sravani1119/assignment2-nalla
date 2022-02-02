@@ -39,3 +39,13 @@ Below table gives a breif intro about gaming activites and the location of gamin
 |Skating| Florida | $ 2070|
 |Surfing| texas | $ 1400|
 |Karting| Chicago | $ 700|
+
+<hr>
+
+# Pithy Quotes
+
+> "The way I see it, if you want the rainbow,you gotta put up with the rain."<br>
+>***-DOLLY PARTON***
+
+>"The smell of fuel, driving on the limit on the edge of sliding, it just gives you a lot of adrenaline."<br>
+>***-MAX VERSTAPPEN***
